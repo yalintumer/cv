@@ -1,0 +1,27 @@
+.üst{
+  background-color: #00FFAB;
+  width:200px;
+  height:200px;
+  position: relative;
+}
+
+.orta{
+  width:200px;
+  height:200px;
+  background-color: red;
+  position: absolute;
+  left:208px;
+
+
+}
+.alt{
+  width:200px;
+  height:200px;
+  background-color: blue;
+  position: absolute;
+  left:408px;
+  top: 408px;
+}
+.Yalın{
+  text-decoration: underline;
+}
